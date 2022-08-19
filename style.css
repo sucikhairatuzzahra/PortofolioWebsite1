@@ -1,0 +1,17 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: grey;
+}
+
+#projects {
+    background-color: rgb(185, 153, 153);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+section img {
+    border-radius: 70%;
+    border: 50px solid rgb(211, 194, 194);
+}
